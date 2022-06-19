@@ -30,3 +30,15 @@ cd ..
 Part of the code is revised from
 - [yunjey/stargan](https://github.com/yunjey/stargan)
 - [JorisRoels/domain-adaptive-segmentation](https://github.com/JorisRoels/domain-adaptive-segmentation)
+
+## Citation
+```
+@inproceedings{yuan2019unified,
+  title={Unified attentional generative adversarial network for brain tumor segmentation from multimodal unpaired images},
+  author={Yuan, Wenguang and Wei, Jia and Wang, Jiabing and Ma, Qianli and Tasdizen, Tolga},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={229--237},
+  year={2019},
+  organization={Springer}
+}
+```
